@@ -1,14 +1,14 @@
 module.exports = {
-    TOKENS: [""],
-    ownerID: [""], //write your discord user id. example: ["id"] or ["id1","id2"]
-    botInvite: "", //write your discord bot invite.
-    supportServer: "", //write your discord bot support server invite.
-    mongodbURL: "", //write your mongodb url.
+    TOKENS: ["MTM2NTI3ODU1NzcxNDI1NTkyMw.GqxHHY.v008nbX8s4NUA2w0J8D7uyqJoBu3T44vQWH5lk"],
+    ownerID: ["1073863060843937812"], //write your discord user id. example: ["id"] or ["id1","id2"]
+    botInvite: "https://discord.com/oauth2/authorize?client_id=1365278557714255923&permissions=8&integration_type=0&scope=bot", //write your discord bot invite.
+    supportServer: "https://discord.gg/aBFc7BRq", //write your discord bot support server invite.
+    mongodbURL: "mongodb+srv://inutarou351:nekotaoru4490@cluster0.zoqeiad.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0", //write your mongodb url.
     status: '❤️ codeshare.me',
     commandsDir: './commands', //Please don't touch
-    language: "en", //ar, de, en, es, fr, id, it, ja, nl, pt, ru, tr, zh_TW
+    language: "ja", //ar, de, en, es, fr, id, it, ja, nl, pt, ru, tr, zh_TW
     embedColor: "ffa954", //hex color code
-    errorLog: "", //write your discord error log channel id.
+    errorLog: "1165786582561853450", //write your discord error log channel id.
 
 
     playlistSettings: {
